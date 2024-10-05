@@ -15,4 +15,5 @@ swooshSprite.filters = [maskfilter];
 
 ### Notes
 
-Pixi got a new PR that added this feature which was merged into their dev branch 3 days ago (and I snatched his edited-shader code). So this feature should be in future versions, but for now, you can use this. 
+- Pixi got a new PR that added this feature which was merged into their dev branch 3 days ago (and I snatched his edited-shader code). So this feature should be in future versions, but for now, you can use this. 
+- WebGL only.
